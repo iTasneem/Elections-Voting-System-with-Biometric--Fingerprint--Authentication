@@ -1,0 +1,16 @@
+Voter 1:
+Ahmed El-Hussein
+30107202104871
+False
+Voter 2:
+Moataz Asem
+30011290101057
+False
+Voter 3:
+Jane Doe
+28310201234567
+False
+Voter 4:
+Mary Doe
+27805250123456
+False
